@@ -5,8 +5,7 @@ public class Main {
 	//start
 	public static void main(String[] args) {
 		CourseSystem.Init();
-		//test
-		//2
+
 	}
 }
 
